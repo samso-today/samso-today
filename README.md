@@ -12,10 +12,10 @@ _Bechalor's degree in Industrial Engineering & Computer Science @[SNU](https://e
 [![robo_tronic solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=robo_tronic)](https://solved.ac/robo_tronic)
 
 # Point of Contact
-![robotroniq github button](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/robotroniq/)
-![robotroniq linkedin button](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robotronic/)
-![robotroniq facebook button](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/robotronic/)
-![robotroniq instagram button](https://img.shields.io/badge/-Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/robo_tronic/)
+[![robotroniq github button](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/robotroniq/)
+[![robotroniq linkedin button](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robotronic/)
+[![robotroniq facebook button](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/robotronic/)
+[![robotroniq instagram button](https://img.shields.io/badge/-Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robo_tronic/)
 
 <!--
 **robotroniq/robotroniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
